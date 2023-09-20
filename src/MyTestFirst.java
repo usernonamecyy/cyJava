@@ -4,6 +4,7 @@
  * 在需要注释的位置，输入“/**”，然后按一下enter即可实现
  */
 public class MyTestFirst {
+<<<<<<< HEAD
     public String name;
     public String food;
     public int age;
@@ -34,3 +35,9 @@ public class MyTestFirst {
             }
         }
 
+=======
+    public static void main(String[] args) {
+        System.out.println("Macbooks says helloworld");
+    }
+}
+>>>>>>> 2b5fc86a94fa725d4c5e63467cee4ed69a657608
