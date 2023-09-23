@@ -30,6 +30,7 @@ public class MyTestFirst {
 
         System.out.println("===============");
         System.out.println("Macbooks says helloworld");
+        System.out.println("windows also says helloworld");
         hisLike();
 
             }
