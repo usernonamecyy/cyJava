@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c11573a6-c733-46bb-9d69-511c91c79791" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyTestFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyTestFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cyJava/MyTestFirst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cyJava/MyTestFirst.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,12 +26,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="1" />
           <entry key="Git file" value="1" />
           <entry key="IDEA_MODULE" value="1" />
         </counts>
@@ -54,11 +56,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyTestFirst.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="333">
               <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/production/cyJava/MyTestFirst.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-324">
+              <folding>
+                <element signature="e#0#895#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,9 +120,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-302" />
-    <option name="y" value="525" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-350" />
+    <option name="y" value="409" />
     <option name="width" value="1940" />
     <option name="height" value="1100" />
   </component>
@@ -192,7 +205,7 @@
       <workItem from="1695176269583" duration="99000" />
       <workItem from="1695176412549" duration="144000" />
       <workItem from="1695288631988" duration="595000" />
-      <workItem from="1695436793898" duration="235000" />
+      <workItem from="1695436793898" duration="803000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1695176549794</created>
@@ -201,17 +214,30 @@
       <option name="project" value="LOCAL" />
       <updated>1695176549794</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1695437061368</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695437061368</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1695437072151</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695437072151</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2146000" />
+    <option name="totallyTimeSpent" value="2714000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-181" y="432" width="1751" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="-350" y="409" width="1940" height="1100" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26729745" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24042553" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -220,7 +246,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32947975" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29533678" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -264,8 +290,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyTestFirst.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="333">
           <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/cyJava/MyTestFirst.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <folding>
+            <element signature="e#0#895#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
