@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11573a6-c733-46bb-9d69-511c91c79791" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cyJava/MyTestFirst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cyJava/MyTestFirst.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,23 +18,24 @@
         <counts>
           <entry key="project.closed" value="4" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
-          <entry key="gitignore" value="1" />
+          <entry key="class" value="2" />
+          <entry key="gitignore" value="2" />
           <entry key="iml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="Git file" value="1" />
+          <entry key="CLASS" value="2" />
+          <entry key="Git file" value="2" />
           <entry key="IDEA_MODULE" value="1" />
         </counts>
       </usages-collector>
@@ -59,35 +60,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyTestFirst.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
+            <state relative-caret-position="307">
               <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/out/production/cyJava/MyTestFirst.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-324">
-              <folding>
-                <element signature="e#0#895#0" expanded="true" />
-              </folding>
-            </state>
+            <state relative-caret-position="-671" />
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="54">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cyJava.iml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -106,8 +98,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/MyTestFirst.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -120,9 +112,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-350" />
-    <option name="y" value="409" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-59" />
+    <option name="y" value="318" />
     <option name="width" value="1940" />
     <option name="height" value="1100" />
   </component>
@@ -132,12 +124,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="cyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
               <item name="cyJava" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -149,7 +159,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -206,6 +216,7 @@
       <workItem from="1695176412549" duration="144000" />
       <workItem from="1695288631988" duration="595000" />
       <workItem from="1695436793898" duration="803000" />
+      <workItem from="1695881758862" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1695176549794</created>
@@ -232,12 +243,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2714000" />
+    <option name="totallyTimeSpent" value="2752000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-350" y="409" width="1940" height="1100" extended-state="1" />
+    <frame x="91" y="215" width="1940" height="1100" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24042553" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2430851" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -246,7 +258,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29533678" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.55129534" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -281,26 +293,22 @@
     <entry file="file://$PROJECT_DIR$/cyJava.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/out/production/cyJava/MyTestFirst.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
+        <state relative-caret-position="-671" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyTestFirst.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
+        <state relative-caret-position="307">
           <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/cyJava/MyTestFirst.class">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-324">
-          <folding>
-            <element signature="e#0#895#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="54">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
