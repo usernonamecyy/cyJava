@@ -36,9 +36,9 @@ public class MyDailyCost {
                 sumgocost = sum1.add(sum2).subtract(new BigDecimal("2"));
                 allpay  = allpay.add(sumgocost).add(sum4);
 
-                System.out.println("sumgocost:"+""+sumgocost);
-                System.out.println("backcost"+""+sum4);
-                System.out.println("allpay"+""+allpay);
+                System.out.println("sumgocost:"+" "+sumgocost);
+                System.out.println("backcost"+" "+sum4);
+                System.out.println("allpay"+" "+allpay);
             }
             else {
                 BigDecimal sum1 = buscost.multiply(new BigDecimal("0.5"));
@@ -47,9 +47,9 @@ public class MyDailyCost {
                 sumgocost = sum1.add(sum2).subtract(new BigDecimal("2"));
                 allpay  = allpay.add(sumgocost).add(sum4);
 
-                System.out.println("sumgocost:"+""+sumgocost);
-                System.out.println("backcost"+""+sum4);
-                System.out.println("allpay"+""+allpay);
+                System.out.println("sumgocost:"+" "+sumgocost);
+                System.out.println("backcost"+" "+sum4);
+                System.out.println("allpay"+" "+allpay);
             }
         }
 
