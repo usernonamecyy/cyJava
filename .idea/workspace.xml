@@ -9,8 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c11573a6-c733-46bb-9d69-511c91c79791" name="Default Changelist" comment="update,逻辑乱七八糟的明天看看怎么优化把。">
       <change afterPath="$PROJECT_DIR$/src/day02/MyRunoob1.java" afterDir="false" />
+=======
+    <list default="true" id="c11573a6-c733-46bb-9d69-511c91c79791" name="Default Changelist" comment="">
+>>>>>>> 8be11986d347dd66a599719de40792c97e87c1d6
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -199,6 +203,7 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -222,6 +227,41 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.MyRunoob1">
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/chang/Desktop/xuexi/cyJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.HelloWorld">
+    <configuration name="FamilyAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.FamilyAccount" />
+      <module name="cyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+>>>>>>> 8be11986d347dd66a599719de40792c97e87c1d6
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day01.HelloWorld" />
       <module name="cyJava" />
@@ -343,9 +383,14 @@
     </list>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.MyRunoob1" />
-        <item itemvalue="Application.MyDailyCost" />
+=======
         <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.FamilyAccount" />
+        <item itemvalue="Application.VariableTest" />
+>>>>>>> 8be11986d347dd66a599719de40792c97e87c1d6
+        <item itemvalue="Application.MyDailyCost" />
         <item itemvalue="Application.MyTestFirst" />
       </list>
     </recent_temporary>
@@ -364,11 +409,16 @@
       <workItem from="1695105954133" duration="849000" />
       <workItem from="1695131939204" duration="2123000" />
       <workItem from="1695995757727" duration="5657000" />
+<<<<<<< HEAD
       <workItem from="1698733123845" duration="23000" />
       <workItem from="1698733983015" duration="1145000" />
       <workItem from="1698819463406" duration="10000" />
       <workItem from="1698989787305" duration="615000" />
       <workItem from="1699323239419" duration="1795000" />
+=======
+      <workItem from="1699699272408" duration="6586000" />
+      <workItem from="1706539224397" duration="1011000" />
+>>>>>>> 8be11986d347dd66a599719de40792c97e87c1d6
     </task>
     <task id="LOCAL-00001" summary="mac安装java的测试">
       <option name="closed" value="true" />
@@ -386,7 +436,35 @@
       <option name="project" value="LOCAL" />
       <updated>1695989826625</updated>
     </task>
+<<<<<<< HEAD
     <option name="localTasksCounter" value="3" />
+=======
+    <task id="LOCAL-00003" summary="1">
+      <option name="closed" value="true" />
+      <created>1698576985276</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698576985276</updated>
+    </task>
+    <task id="LOCAL-00004" summary="尚硅谷的项目一，因为没Uni包暂时不写了，下次再补。">
+      <option name="closed" value="true" />
+      <created>1699706431553</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699706431553</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1">
+      <option name="closed" value="true" />
+      <created>1699706447463</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699706447463</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+>>>>>>> 8be11986d347dd66a599719de40792c97e87c1d6
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -447,7 +525,13 @@
     <MESSAGE value="mac安装java的测试" />
     <MESSAGE value="update" />
     <MESSAGE value="update,逻辑乱七八糟的明天看看怎么优化把。" />
+<<<<<<< HEAD
     <option name="LAST_COMMIT_MESSAGE" value="update,逻辑乱七八糟的明天看看怎么优化把。" />
+=======
+    <MESSAGE value="尚硅谷的项目一，因为没Uni包暂时不写了，下次再补。" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+>>>>>>> 8be11986d347dd66a599719de40792c97e87c1d6
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
