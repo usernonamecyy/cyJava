@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6658bc34-0b13-46b2-a144-3f0373367302" name="Default Changelist" comment="B站 宋 46节">
-      <change afterPath="$PROJECT_DIR$/src/day01/RandomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/PracticeOne.java" afterDir="false" />
+    <list default="true" id="6658bc34-0b13-46b2-a144-3f0373367302" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cyJava/day01/VariableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cyJava/day01/VariableTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/VariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/VariableTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/day01/VariableTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1053">
-              <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+            <state relative-caret-position="-504">
+              <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day01/RandomTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="482">
@@ -164,8 +160,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="90" />
+    <option name="x" value="328" />
+    <option name="y" value="89" />
     <option name="width" value="1665" />
     <option name="height" value="967" />
   </component>
@@ -215,7 +211,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1707032520685" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1707032603679" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -309,7 +305,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706596323328</updated>
       <workItem from="1706596328080" duration="8592000" />
-      <workItem from="1707016904940" duration="7814000" />
+      <workItem from="1707016904940" duration="7871000" />
     </task>
     <task id="LOCAL-00001" summary="B站 宋 43节">
       <created>1706604491767</created>
@@ -318,14 +314,21 @@
       <option name="project" value="LOCAL" />
       <updated>1706604491767</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="B站 宋 46节">
+      <created>1707032550610</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707032550610</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16406000" />
+    <option name="totallyTimeSpent" value="16463000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="90" width="1665" height="967" extended-state="0" />
+    <frame x="739" y="87" width="1665" height="967" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16012461" />
@@ -412,16 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day01/VariableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
-          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/PracticeOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2052">
@@ -438,6 +431,16 @@
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day01/VariableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
