@@ -11,9 +11,17 @@ public class VariableTest {
     public static void main(String[] args) {
         int num1,num2,num3;
         Scanner scanner = new Scanner(System.in);
+        System.out.println("请输入三个数字:");
         num1 = scanner.nextInt();
         num2 = scanner.nextInt();
         num3 = scanner.nextInt();
+        double num4 = scanner.nextDouble();
+        System.out.println("输入一个小数：");
+        System.out.println(num4+"+++++++++++++++++++");
+        System.out.println("(男\\女)");
+        char gender = scanner.next().charAt(0);
+        System.out.println("gender"+gender);
+
         if(num1>num2){
             if (num2>num3){
                 System.out.println(num1+","+num2+","+num3);

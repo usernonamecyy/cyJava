@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6658bc34-0b13-46b2-a144-3f0373367302" name="Default Changelist" comment="B站 宋 43节" />
+    <list default="true" id="6658bc34-0b13-46b2-a144-3f0373367302" name="Default Changelist" comment="B站 宋 46节">
+      <change afterPath="$PROJECT_DIR$/src/day01/RandomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/PracticeOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cyJava/day01/VariableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cyJava/day01/VariableTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01/VariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/VariableTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,26 +26,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="8" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="8" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="859" />
-          <entry key="txt" value="14" />
+          <entry key="java" value="2558" />
+          <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="859" />
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="JAVA" value="2558" />
+          <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
     </session>
@@ -58,10 +64,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day01/VariableTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            <state relative-caret-position="1053">
+              <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/PracticeOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2052">
+              <caret line="76" column="20" lean-forward="true" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day01/RandomTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="482">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,7 +124,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day01/TestTxt.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
@@ -120,8 +150,10 @@
       <list>
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/day01/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/day01/VariableTest.java" />
         <option value="$PROJECT_DIR$/src/day01/TestTxt.java" />
+        <option value="$PROJECT_DIR$/src/day01/VariableTest.java" />
+        <option value="$PROJECT_DIR$/src/day01/RandomTest.java" />
+        <option value="$PROJECT_DIR$/src/practice/PracticeOne.java" />
       </list>
     </option>
   </component>
@@ -132,10 +164,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="229" />
-    <option name="y" value="346" />
-    <option name="width" value="1940" />
-    <option name="height" value="924" />
+    <option name="x" value="39" />
+    <option name="y" value="90" />
+    <option name="width" value="1665" />
+    <option name="height" value="967" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -170,7 +202,7 @@
               <item name="cyJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="cyJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day02" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -183,7 +215,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1706605036247" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1707032520685" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -198,9 +230,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VariableTest">
+  <component name="RunManager" selected="Application.PracticeOne">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day01.HelloWorld" />
+      <module name="cyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.PracticeOne" />
+      <module name="cyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day01.RandomTest" />
       <module name="cyJava" />
       <extension name="coverage">
         <pattern>
@@ -228,9 +286,13 @@
     <list>
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.VariableTest" />
+      <item itemvalue="Application.PracticeOne" />
+      <item itemvalue="Application.RandomTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PracticeOne" />
+        <item itemvalue="Application.RandomTest" />
         <item itemvalue="Application.VariableTest" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -247,7 +309,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706596323328</updated>
       <workItem from="1706596328080" duration="8592000" />
-      <workItem from="1707016904940" duration="2050000" />
+      <workItem from="1707016904940" duration="7814000" />
     </task>
     <task id="LOCAL-00001" summary="B站 宋 43节">
       <created>1706604491767</created>
@@ -260,12 +322,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10642000" />
+    <option name="totallyTimeSpent" value="16406000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="229" y="346" width="1940" height="924" extended-state="0" />
+    <frame x="39" y="90" width="1665" height="967" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2526596" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16012461" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,16 +337,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21498372" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37019232" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32953104" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32953104" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32920793" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.328125" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -303,7 +366,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="B站 宋 43节" />
-    <option name="LAST_COMMIT_MESSAGE" value="B站 宋 43节" />
+    <MESSAGE value="B站 宋 46节" />
+    <option name="LAST_COMMIT_MESSAGE" value="B站 宋 46节" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -317,16 +381,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day01/VariableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -355,6 +409,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day01/VariableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/PracticeOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2052">
+          <caret line="76" column="20" lean-forward="true" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day01/RandomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
