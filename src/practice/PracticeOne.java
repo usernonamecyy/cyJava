@@ -55,7 +55,7 @@ public class PracticeOne {
         switch (month){
             case 1:
                 sumday = day;
-                System.out.println("sumday一共有"+sumday+"天");
+                System.out.println(month+"月，sumday一共有"+sumday+"天");
                 break;
             case 2:
                 sumday = day+31;
