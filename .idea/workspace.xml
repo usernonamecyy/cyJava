@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6658bc34-0b13-46b2-a144-3f0373367302" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day03/BreakContinueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ForExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/NineExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/PrimeNumberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/ForForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02/ForForTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,13 +39,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="5620" />
-          <entry key="txt" value="18" />
+          <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="5620" />
-          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
     </session>
@@ -190,7 +185,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="409" />
     <option name="y" value="37" />
     <option name="width" value="1093" />
@@ -236,7 +231,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1707205122795" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1707205526167" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -347,7 +342,7 @@
       <workItem from="1706596328080" duration="8592000" />
       <workItem from="1707016904940" duration="8471000" />
       <workItem from="1707100614160" duration="13471000" />
-      <workItem from="1707179519178" duration="10354000" />
+      <workItem from="1707179519178" duration="10755000" />
     </task>
     <task id="LOCAL-00001" summary="B站 宋 43节">
       <created>1706604491767</created>
@@ -384,16 +379,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707119781413</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="B站 宋 61节">
+      <created>1707205168987</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707205168987</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40888000" />
+    <option name="totallyTimeSpent" value="41289000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="716" y="4" width="1093" height="1070" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25459826" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1401919" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -402,14 +404,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4117647" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41802388" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5647668" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2997763" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.29967427" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.328125" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -434,7 +436,8 @@
     <MESSAGE value="B站 宋 46节" />
     <MESSAGE value="B站 宋 49节" />
     <MESSAGE value="B站 宋 51节" />
-    <option name="LAST_COMMIT_MESSAGE" value="B站 宋 51节" />
+    <MESSAGE value="B站 宋 61节" />
+    <option name="LAST_COMMIT_MESSAGE" value="B站 宋 61节" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
