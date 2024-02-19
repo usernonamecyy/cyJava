@@ -5,15 +5,15 @@ import java.util.Scanner;
 
 public class ArrayExample {
     public static void main(String[] args) {
-        //String arr[] = new String[]{"Mon","Tues","Wed","Thur","Fri","Sat","Sun"};
+        String arr[] = new String[]{"Mon","Tues","Wed","Thur","Fri","Sat","Sun"};
         Scanner scan = new Scanner(System.in);
-        //int num = scan.nextInt();
-        //if (num<=7&&num>=0){
-        //    System.out.println(arr[num-1]);
-        //}
-        //else {
-        //    System.out.println("???");
-        //}
+        int num = scan.nextInt();
+        if (num<=7&&num>=0){
+            System.out.println(arr[num-1]);
+        }
+        else {
+            System.out.println("???");
+        }
         System.out.println("下一个，请输入学生的人数:");
         int people = scan.nextInt();
 
