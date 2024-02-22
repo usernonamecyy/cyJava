@@ -4,6 +4,7 @@ public class Object01 {
     //属性
     String name;
     double price;
+    Person hello;
 
     //方法
     public void call(){
