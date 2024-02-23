@@ -8,6 +8,8 @@ package day04;
  *3、方法名：属于标识符。需要满足标识符的规定规范。“见名知意”
  *4、形参列表，形参，属于局部变量，且可以声明多个。
  *              格式：（形参类型1 形参1，形参类型2 形参2）
+ *
+ *              方法内不能定义方法
  */
 public class MethodTest {
 }
@@ -30,4 +32,5 @@ class Personss{
     public int getAge(){
         return age;
     }
+
 }
