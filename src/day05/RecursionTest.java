@@ -5,6 +5,8 @@ public class RecursionTest {
         RecursionTest test = new RecursionTest();
         //test.method1();
         System.out.println(test.getSum(100));
+     int   a=  test.getSum1(100);
+        System.out.println(a);
     }
 
     /**
